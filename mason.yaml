@@ -1,0 +1,3 @@
+bricks:
+  clean_architecture_folders_lib: ^1.0.0+5
+  api_service: ^0.1.0+1
